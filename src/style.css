@@ -1,0 +1,57 @@
+body {
+  background-image: url("/images/background.jpg");
+  font-family: 'Otomanopee One', sans-serif;
+  
+}
+h1 ,h2{
+   
+    font-weight: 900;
+}
+a{
+ text-decoration: none;
+}
+
+.gray {
+ color: #696969;
+}
+.pad-top{
+    padding-top: 10px;
+}
+.secondery {
+    color:#DC0073
+}
+.degree {
+    font-size: 165px;
+    text-align: center;
+    color: #ffcc00;
+}
+.units{
+    font-size: 100px;
+    color: #ffcc00 !important;
+    position: relative;
+    
+}
+.sunny {
+    font-size: 35px; 
+    left: 225px;
+    position: relative;
+    top: -40px;
+}
+.details {
+    text-align: left;
+    position:relative ;
+    font-size: medium;
+    font-weight: 600;
+    left: 220px;
+    top: -25px;
+}
+.borderLine{
+    border: 10px solid gray !important;
+}
+.weather-img {
+    height: 60px;
+    width: 60px;
+}
+.card-opacity {
+    opacity: 0.7;
+}
